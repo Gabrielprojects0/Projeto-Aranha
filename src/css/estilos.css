@@ -147,3 +147,7 @@ body {
     opacity: 1;
     visibility: visible;
 }
+
+.aranhas {
+    border-radius: 10%;
+}
